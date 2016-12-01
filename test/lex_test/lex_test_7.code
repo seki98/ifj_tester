@@ -16,6 +16,11 @@ class Main
 		double cb = 2e-5;
 		double cc = 2E+5;
 		double cd = 2E-5;
+/*Exponent je celo ˇ císelný, za ˇ cíná znakem ’ ˇ e’ nebo
+’E’, následuje nepovinné znaménko ’+’ (plus) nebo ’-’ (mínus) a poslední cástí je ˇ
+neprázdná posloupnost císlic. */
+		double dba = 2.5e5;
+		double dbb = 2e5;
 
 		// Cela + desatina + exponent
 		double da = 2.589e+5;
